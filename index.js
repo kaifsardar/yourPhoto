@@ -1,4 +1,7 @@
-function getImage(roll) {
-    document.querySelector("img").setAttribute("src", "http://juadmission.jdvu.ac.in/jums_exam/student_photos/002110501" + roll + ".jpg");
+let roll;
+    function submit() {
+   roll=document.getElementById("roll").value; 
+   document.querySelector("#img1").setAttribute("src", "http://juadmission.jdvu.ac.in/jums_exam/student_photos/002110501" + roll + ".jpg");
+   document.querySelector("#img2").setAttribute("src", "http://juadmission.jdvu.ac.in/jums_exam/student_photos/002110501" + roll + ".jpeg");
+   
 }
-
