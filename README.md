@@ -35,13 +35,13 @@ Before you begin, make sure you have a basic understanding of HTML, CSS, and Jav
 1. Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/university-roll-photo-webapp.git
+   git clone https://github.com/kaifsardar/yourPhoto.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd university-roll-photo-webapp
+   cd yourPhoto
    ```
 
 ## Usage
@@ -50,9 +50,9 @@ Before you begin, make sure you have a basic understanding of HTML, CSS, and Jav
 
 2. Double-click on the `index.html` file to open it in your web browser.
 
-3. Enter the last 3 digits of your 12-digit initial roll number, your year of admission, and the department name in the provided input fields.
+3. Enter the last 3 digits of your 12-digit initial roll number, your year of admission, and select dept from drop down menu
 
-4. Click the "Fetch Photo" button to retrieve and display your official photo from the university server.
+4. Click the "next" button to retrieve and display your official photo from the university server.
 
 ## Contributing
 
